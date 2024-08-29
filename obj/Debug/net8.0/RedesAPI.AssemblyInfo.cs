@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RedesAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccfd79180a81807a2f230a3efd54895d17ec1d5f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdd02a30c8f78c2e9b3e6d40b16f282042e59a7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("RedesAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RedesAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
